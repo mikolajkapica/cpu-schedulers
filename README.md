@@ -1,4 +1,4 @@
-# scheduling-algorithms
+# cpu-schedulers
  Excerice for my operating systems class – processor access scheduling algorithms 
 
 
